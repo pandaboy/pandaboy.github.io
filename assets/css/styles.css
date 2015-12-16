@@ -67,3 +67,4 @@ a.dotted-link{border-bottom:1px dotted #778492;color:#778492;}a.dotted-link:hove
 .footer .fa-heart{color:#fb866a;}
 @media (max-width:767px){.header{text-align:center;} .header .profile-image{float:none !important;margin:0 auto;} .header .profile-content{float:none !important;text-align:center;} .header .btn{margin-top:30px;float:none !important;} .project-image{margin-bottom:15px;}}@media (min-width:768px){}@media (min-width:992px){}@media (min-width:1200px){}@media (min-width:1400px){.container{width:1360px;}}.cuppa{padding-top:1em;padding-bottom:1em;}.cuppa img{width:80px;}
 .cuppa small{margin-top:.5em;display:block;font-size:11px;}
+@media (max-width:767px){.profile-links{float:none !important;}}@media (min-width:768px){.profile-links{float:none !important;}}
